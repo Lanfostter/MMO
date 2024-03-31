@@ -1,0 +1,8 @@
+[
+  {
+    "method": "get",
+    "path": "/login",
+    "controller": "LoginController",
+    "action": "login"
+  }
+]
